@@ -3,7 +3,7 @@
     margin-left: 86%;
 }
 #box{
-    display:compact;
+    display:flex;
     background-color:transparent;
     margin-top:14%;
     border-top:inset thin;
@@ -53,16 +53,43 @@
     border-radius:15px 70px 30px 80px;
 }
 #home {
-    margin-left: 36.4%;
-    margin-top: 70%;
+    margin-left: 39%;
+    margin-top: 2%;
+    background-color:blanchedalmond;
+    display:block;
+    text-align:center;
+    height:30px;
+    width:70px;
+    border-radius: 3px 4px;
 }
 #about {
-    margin-left: 5%;
+    margin-left: 45%;
+    margin-top: -2%;
+    background-color: blanchedalmond;
+    display: block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-radius: 3px 4px;
 }
 #skills {
-    margin-left: 5%;
+    margin-left: 51%;
+    margin-top: -2%;
+    background-color: blanchedalmond;
+    display: block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-radius: 3px 4px;
 }
-#projects{
-    margin-left:5%;
+#projects {
+    margin-left: 57%;
+    margin-top: -2%;
+    background-color: blanchedalmond;
+    display: block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border-radius: 3px 4px;
 }
 
