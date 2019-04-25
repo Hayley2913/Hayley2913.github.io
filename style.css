@@ -52,4 +52,6 @@
     box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
     border-radius:15px 70px 30px 80px;
 }
-
+#about{
+    display:block;
+}
