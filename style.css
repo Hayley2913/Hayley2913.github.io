@@ -52,6 +52,17 @@
     box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
     border-radius:15px 70px 30px 80px;
 }
-#about{
-    display:block;
+#home {
+    margin-left: 36.4%;
+    margin-top: 70%;
 }
+#about {
+    margin-left: 5%;
+}
+#skills {
+    margin-left: 5%;
+}
+#projects{
+    margin-left:5%;
+}
+
