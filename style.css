@@ -1,0 +1,55 @@
+#links {
+    display: block;
+    margin-left: 86%;
+}
+#box{
+    display:flex;
+    background-color:transparent;
+    margin-top:14%;
+    border-top:inset thin;
+    border-color:dimgray;
+    box-shadow:0 0.4px 800px 0 rgb(5, 20, 139);
+    height:50px;
+}
+#handshake {
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 9%;
+}
+#handshake:hover{
+    transform:scale(2);
+}
+#youtube {
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 7%;
+}
+#youtube:hover{
+    transform:scale(2);
+}
+#linkedin {
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 7%;
+}
+#linkedin:hover{
+    transform:scale(2);
+}
+#github {
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 7%;
+}
+#github:hover {
+        transform: scale(2);
+}
+#me {
+    width: 20%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:5%;
+    box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
+    border-radius:15px 70px 30px 80px;
+}
+
