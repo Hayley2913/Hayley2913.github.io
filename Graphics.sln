@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphics", "Graphics", "{29
 		pro.PNG = pro.PNG
 		skills.PNG = skills.PNG
 		writting1.PNG = writting1.PNG
+		writting2.png = writting2.png
+		writting3.png = writting3.png
 	EndProjectSection
 EndProject
 Global

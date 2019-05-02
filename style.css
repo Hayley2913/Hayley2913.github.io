@@ -109,9 +109,10 @@
 }
 
 
-.writting {
-    max-width: 500px;
-    height: 100px;
+#blah {
+    display:block;
+    margin-top:-24%;
+    margin-left:25%;
 }
 #me {
     width: 20%;
@@ -120,6 +121,7 @@
     margin-top: 5%;
     box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
     border-radius: 15px 70px 30px 80px;
+    opacity:0.4;
 }
 #about{
     margin-top:310px;
