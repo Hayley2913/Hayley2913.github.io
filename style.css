@@ -1,6 +1,7 @@
 #links {
     display: block;
-    margin-left: 86%;
+    margin-left: 84%;
+    margin-top:18%;
 }
 #box{
     display:flex;
@@ -14,7 +15,7 @@
 #handshake {
     margin-top: 2%;
     margin-right: 5%;
-    width: 9%;
+    width: 10%;
 }
 #handshake:hover{
     transform:scale(2);
@@ -22,7 +23,7 @@
 #youtube {
     margin-top: 2%;
     margin-right: 5%;
-    width: 7%;
+    width: 10%;
 }
 #youtube:hover{
     transform:scale(2);
@@ -30,7 +31,7 @@
 #linkedin {
     margin-top: 2%;
     margin-right: 5%;
-    width: 7%;
+    width: 10%;
 }
 #linkedin:hover{
     transform:scale(2);
@@ -38,39 +39,66 @@
 #github {
     margin-top: 2%;
     margin-right: 5%;
-    width: 7%;
+    width: 10%;
 }
 #github:hover {
         transform: scale(2);
 }
+
+.ou {
+    height:auto;
+    width:100%;
+}
+#grad {
+    width:13%;
+    display: block;
+    opacity:1;
+    margin-top:-52%;
+    box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
+    border-radius: 10px 80px 30px 10px;
+}
+#btn_ab{
+    background-color:antiquewhite;
+    padding:8px 20px 4px 20px;
+}
+#btn_sk {
+    background-color: antiquewhite;
+    padding: 8px 20px 4px 20px;
+}
+#btn_pr {
+    background-color: antiquewhite;
+    padding: 8px 20px 4px 20px;
+}
+#clearbx {
+    border: 20px solid floralwhite;
+    padding: 10px;
+}
+#ma{
+    margin-top:10%;
+}
+
+
+.writting {
+    max-width: 500px;
+    height: 100px;
+}
 #me {
     width: 20%;
     display: block;
-    margin-left:auto;
-    margin-right:auto;
-    margin-top:3%;
+    margin-left: 5px;
+    margin-top: 5%;
     box-shadow: 0 4px 10px 0 rgb(79, 74, 74);
-    border-radius:15px 70px 30px 80px;
+    border-radius: 15px 70px 30px 80px;
 }
-#home {
-    margin-left: 39%;
-    margin-top: 2%;
-    background-color:blanchedalmond;
-    display:block;
-    text-align:center;
-    height:30px;
-    width:70px;
-    border-radius: 3px 4px;
+#about{
+    margin-top:310px;
 }
-#about {
-    margin-left: 45%;
-    margin-top: -2%;
-    background-color: blanchedalmond;
-    display: block;
-    text-align: center;
-    height: 30px;
-    width: 70px;
-    border-radius: 3px 4px;
+
+#skillBody {
+    border-bottom: 6px ridge;
+    border-top: 6px ridge;
+    border-left: 95px ridge;
+    border-right: 95px ridge;
 }
 #skills {
     margin-left: 51%;
@@ -82,6 +110,57 @@
     width: 70px;
     border-radius: 3px 4px;
 }
+.name:hover{
+    transform:scale(2)
+}
+.a {
+    margin-left: 45px;
+    margin-top: -10px;
+}
+.b {
+    margin-left: -150px;
+    margin-top: -10px;
+}
+.c {
+    margin-left: -180px;
+    margin-top: 5px;
+}
+.d {
+    margin-left: -364px;
+    margin-top: -10px;
+}
+.e {
+    margin-left: -388px;
+    margin-top: -10px;
+}
+.f {
+    margin-left: -279px;
+}
+.g {
+    margin-left: 93px;
+}
+.h {
+    margin-left: 80px;
+}
+.i {
+    margin-left: 30px;
+    margin-top: -50px;
+}
+.j {
+    margin-left: -390px;
+}
+.k {
+    margin-left: -320px;
+    margin-top: -4px;
+}
+.l {
+    margin-left: 85px;
+}
+.m {
+    margin-left: -160px;
+    margin-top: -15px;
+}
+
 #projects {
     margin-left: 57%;
     margin-top: -2%;
@@ -92,5 +171,4 @@
     width: 70px;
     border-radius: 3px 4px;
 }
-
 

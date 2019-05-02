@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{E5875255-BF25-42EE-AC37-3A627DA15A34}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\gpa1.PNG = ..\..\gpa1.PNG
+		..\..\honors.PNG = ..\..\honors.PNG
+		..\..\skills.PNG = ..\..\skills.PNG
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D66C97-2779-4B17-B32C-087199708220}
+	EndGlobalSection
+EndGlobal
